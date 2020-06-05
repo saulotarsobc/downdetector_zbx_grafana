@@ -49,7 +49,7 @@
               "text": "😡",
               "to": "",
               "type": 1,
-              "value": "1"
+              "value": "3"
             },
             {
               "from": "",
@@ -170,5 +170,5 @@
   "timezone": "",
   "title": "Downdetector All",
   "uid": "7QMpxniGk",
-  "version": 5
+  "version": 6
 }
