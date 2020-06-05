@@ -88,7 +88,7 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 18,
+        "h": 20,
         "w": 24,
         "x": 0,
         "y": 0
@@ -155,6 +155,7 @@
       "type": "stat"
     }
   ],
+  "refresh": "5m",
   "schemaVersion": 25,
   "style": "dark",
   "tags": [],
@@ -169,5 +170,5 @@
   "timezone": "",
   "title": "Downdetector All",
   "uid": "7QMpxniGk",
-  "version": 2
+  "version": 5
 }
