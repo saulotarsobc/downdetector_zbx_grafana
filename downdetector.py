@@ -60,6 +60,7 @@ PARAMS = {
     'Relatórios de usuários indicam problemas': 'danger'
 }
 
+
 def request(dd_site):
     url = "https://downdetector.com.br/fora-do-ar/{}/".format(dd_site)
     if not craw:
@@ -84,6 +85,7 @@ def parse_result(status_text):
         status_number = 0
     print(status_number)
     exit()
+
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
