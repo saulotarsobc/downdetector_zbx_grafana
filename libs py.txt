@@ -1,9 +1,0 @@
-pip install beautifulsoup4==4.9.0
-pip install certifi==2020.4.5.1
-pip install chardet==3.0.4
-pip install cloudscraper==1.2.33
-pip install idna==2.9
-pip install requests==2.23.0
-pip install requests-toolbelt==0.9.1
-pip install soupsieve==2.0
-pip install urllib3==1.25.9
